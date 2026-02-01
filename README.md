@@ -1,5 +1,8 @@
 # Maintenance Widget (Monzphere)
 
+<img width="1452" height="751" alt="image" src="https://github.com/user-attachments/assets/bfb9763b-f59f-4b98-bd67-14327984264c" />
+
+
 ## Overview
 Compact dashboard widget for visualizing maintenance periods in Zabbix. It is designed to match the native UI style and stay readable in both Blue and Dark themes.
 
